@@ -1,6 +1,0 @@
-qrpickle
---------
-
-Serializes numpy arrays by creating a sequence of QR codes.
-
-I don't recommend using this, but it is a fun hack.
